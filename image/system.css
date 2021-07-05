@@ -1,0 +1,14 @@
+#cal{
+    color:red;
+    font-style:italic;
+}
+#mala{
+    text-align: center;
+}
+#name{
+    display: flex;
+}
+#fexiable{
+ width:40%;   
+    
+}
