@@ -19,8 +19,9 @@ button{
     font-weight:700px;
     
 }
-section{
+.flexiable-container{
     display:flex;
+    margin-bottom:150px;
 }
 .half-width{
     width:50%;
